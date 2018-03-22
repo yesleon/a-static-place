@@ -1,4 +1,5 @@
 # this is a test page.
 
-[Home]()
+[Home][1]
 
+[1]:	/
